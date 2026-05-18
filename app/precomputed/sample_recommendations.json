@@ -1,0 +1,2142 @@
+{
+  "12739": {
+    "user_idx": 12739,
+    "watch_history": [
+      {
+        "title_clean": "Leaving Las Vegas",
+        "genres": "Drama|Romance",
+        "year": 1995
+      },
+      {
+        "title_clean": "Ed Wood",
+        "genres": "Comedy|Drama",
+        "year": 1994
+      },
+      {
+        "title_clean": "Trainspotting",
+        "genres": "Comedy|Crime|Drama",
+        "year": 1996
+      },
+      {
+        "title_clean": "Big Night",
+        "genres": "Comedy|Drama",
+        "year": 1996
+      },
+      {
+        "title_clean": "Secrets & Lies",
+        "genres": "Drama",
+        "year": 1996
+      },
+      {
+        "title_clean": "Aliens",
+        "genres": "Action|Adventure|Horror|Sci-Fi",
+        "year": 1986
+      },
+      {
+        "title_clean": "Local Hero",
+        "genres": "Comedy",
+        "year": 1983
+      },
+      {
+        "title_clean": "Graduate, The",
+        "genres": "Comedy|Drama|Romance",
+        "year": 1967
+      },
+      {
+        "title_clean": "First Strike (Police Story 4: First Strike) (Ging chaat goo si 4: Ji gaan daan yam mo)",
+        "genres": "Action|Adventure|Comedy|Thriller",
+        "year": 1996
+      },
+      {
+        "title_clean": "Austin Powers: International Man of Mystery",
+        "genres": "Action|Adventure|Comedy",
+        "year": 1997
+      }
+    ],
+    "recommendations": [
+      {
+        "title_clean": "Heat",
+        "genres": "Action|Crime|Thriller",
+        "year": 1995
+      },
+      {
+        "title_clean": "Seven (a.k.a. Se7en)",
+        "genres": "Mystery|Thriller",
+        "year": 1995
+      },
+      {
+        "title_clean": "Pulp Fiction",
+        "genres": "Comedy|Crime|Drama|Thriller",
+        "year": 1994
+      },
+      {
+        "title_clean": "Fugitive, The",
+        "genres": "Thriller",
+        "year": 1993
+      },
+      {
+        "title_clean": "Godfather, The",
+        "genres": "Crime|Drama",
+        "year": 1972
+      },
+      {
+        "title_clean": "Casablanca",
+        "genres": "Drama|Romance",
+        "year": 1942
+      },
+      {
+        "title_clean": "Die Hard",
+        "genres": "Action|Crime|Thriller",
+        "year": 1988
+      },
+      {
+        "title_clean": "Reservoir Dogs",
+        "genres": "Crime|Mystery|Thriller",
+        "year": 1992
+      },
+      {
+        "title_clean": "Annie Hall",
+        "genres": "Comedy|Romance",
+        "year": 1977
+      },
+      {
+        "title_clean": "Chinatown",
+        "genres": "Crime|Film-Noir|Mystery|Thriller",
+        "year": 1974
+      }
+    ]
+  },
+  "13504": {
+    "user_idx": 13504,
+    "watch_history": [
+      {
+        "title_clean": "North by Northwest",
+        "genres": "Action|Adventure|Mystery|Romance|Thriller",
+        "year": 1959
+      },
+      {
+        "title_clean": "Game, The",
+        "genres": "Drama|Mystery|Thriller",
+        "year": 1997
+      },
+      {
+        "title_clean": "Sliding Doors",
+        "genres": "Drama|Romance",
+        "year": 1998
+      },
+      {
+        "title_clean": "Wedding Singer, The",
+        "genres": "Comedy|Romance",
+        "year": 1998
+      },
+      {
+        "title_clean": "Crouching Tiger, Hidden Dragon (Wo hu cang long)",
+        "genres": "Action|Drama|Romance",
+        "year": 2000
+      },
+      {
+        "title_clean": "Others, The",
+        "genres": "Drama|Horror|Mystery|Thriller",
+        "year": 2001
+      },
+      {
+        "title_clean": "Frida",
+        "genres": "Drama|Romance",
+        "year": 2002
+      },
+      {
+        "title_clean": "Girl with a Pearl Earring",
+        "genres": "Drama|Romance",
+        "year": 2003
+      },
+      {
+        "title_clean": "X-Men: The Last Stand",
+        "genres": "Action|Sci-Fi|Thriller",
+        "year": 2006
+      },
+      {
+        "title_clean": "Science of Sleep, The (La science des r\u00eaves)",
+        "genres": "Comedy|Drama|Fantasy|Romance",
+        "year": 2006
+      }
+    ],
+    "recommendations": [
+      {
+        "title_clean": "Forrest Gump",
+        "genres": "Comedy|Drama|Romance|War",
+        "year": 1994
+      },
+      {
+        "title_clean": "Fargo",
+        "genres": "Comedy|Crime|Drama|Thriller",
+        "year": 1996
+      },
+      {
+        "title_clean": "Reservoir Dogs",
+        "genres": "Crime|Mystery|Thriller",
+        "year": 1992
+      },
+      {
+        "title_clean": "Big Lebowski, The",
+        "genres": "Comedy|Crime",
+        "year": 1998
+      },
+      {
+        "title_clean": "Edward Scissorhands",
+        "genres": "Drama|Fantasy|Romance",
+        "year": 1990
+      },
+      {
+        "title_clean": "Office Space",
+        "genres": "Comedy|Crime",
+        "year": 1999
+      },
+      {
+        "title_clean": "High Fidelity",
+        "genres": "Comedy|Drama|Romance",
+        "year": 2000
+      },
+      {
+        "title_clean": "Requiem for a Dream",
+        "genres": "Drama",
+        "year": 2000
+      },
+      {
+        "title_clean": "Shrek",
+        "genres": "Adventure|Animation|Children|Comedy|Fantasy|Romance",
+        "year": 2001
+      },
+      {
+        "title_clean": "Garden State",
+        "genres": "Comedy|Drama|Romance",
+        "year": 2004
+      }
+    ]
+  },
+  "18144": {
+    "user_idx": 18144,
+    "watch_history": [
+      {
+        "title_clean": "Superbad",
+        "genres": "Comedy",
+        "year": 2007
+      },
+      {
+        "title_clean": "Definitely, Maybe",
+        "genres": "Comedy|Drama|Romance",
+        "year": 2008
+      },
+      {
+        "title_clean": "Ghost Town",
+        "genres": "Comedy|Fantasy|Romance",
+        "year": 2008
+      },
+      {
+        "title_clean": "Slumdog Millionaire",
+        "genres": "Crime|Drama|Romance",
+        "year": 2008
+      },
+      {
+        "title_clean": "Curious Case of Benjamin Button, The",
+        "genres": "Drama|Fantasy|Mystery|Romance",
+        "year": 2008
+      },
+      {
+        "title_clean": "Yes Man",
+        "genres": "Comedy",
+        "year": 2008
+      },
+      {
+        "title_clean": "Valkyrie",
+        "genres": "Drama|Thriller|War",
+        "year": 2008
+      },
+      {
+        "title_clean": "Star Trek",
+        "genres": "Action|Adventure|Sci-Fi|IMAX",
+        "year": 2009
+      },
+      {
+        "title_clean": "Up",
+        "genres": "Adventure|Animation|Children|Drama",
+        "year": 2009
+      },
+      {
+        "title_clean": "Br\u00fcno (Bruno)",
+        "genres": "Comedy",
+        "year": 2009
+      }
+    ],
+    "recommendations": [
+      {
+        "title_clean": "Star Wars: Episode IV - A New Hope",
+        "genres": "Action|Adventure|Sci-Fi",
+        "year": 1977
+      },
+      {
+        "title_clean": "Forrest Gump",
+        "genres": "Comedy|Drama|Romance|War",
+        "year": 1994
+      },
+      {
+        "title_clean": "Star Wars: Episode V - The Empire Strikes Back",
+        "genres": "Action|Adventure|Sci-Fi",
+        "year": 1980
+      },
+      {
+        "title_clean": "Princess Bride, The",
+        "genres": "Action|Adventure|Comedy|Fantasy|Romance",
+        "year": 1987
+      },
+      {
+        "title_clean": "Back to the Future",
+        "genres": "Adventure|Comedy|Sci-Fi",
+        "year": 1985
+      },
+      {
+        "title_clean": "Indiana Jones and the Last Crusade",
+        "genres": "Action|Adventure",
+        "year": 1989
+      },
+      {
+        "title_clean": "Matrix, The",
+        "genres": "Action|Sci-Fi|Thriller",
+        "year": 1999
+      },
+      {
+        "title_clean": "Snatch",
+        "genres": "Comedy|Crime|Thriller",
+        "year": 2000
+      },
+      {
+        "title_clean": "Shrek",
+        "genres": "Adventure|Animation|Children|Comedy|Fantasy|Romance",
+        "year": 2001
+      },
+      {
+        "title_clean": "Lord of the Rings: The Fellowship of the Ring, The",
+        "genres": "Adventure|Fantasy",
+        "year": 2001
+      }
+    ]
+  },
+  "19740": {
+    "user_idx": 19740,
+    "watch_history": [
+      {
+        "title_clean": "American in Paris, An",
+        "genres": "Musical|Romance",
+        "year": 1951
+      },
+      {
+        "title_clean": "Funny Face",
+        "genres": "Comedy|Musical",
+        "year": 1957
+      },
+      {
+        "title_clean": "Picnic",
+        "genres": "Drama",
+        "year": 1955
+      },
+      {
+        "title_clean": "Dial M for Murder",
+        "genres": "Crime|Mystery|Thriller",
+        "year": 1954
+      },
+      {
+        "title_clean": "Rebel Without a Cause",
+        "genres": "Drama",
+        "year": 1955
+      },
+      {
+        "title_clean": "Sleeping Beauty",
+        "genres": "Animation|Children|Musical",
+        "year": 1959
+      },
+      {
+        "title_clean": "King and I, The",
+        "genres": "Drama|Musical|Romance",
+        "year": 1956
+      },
+      {
+        "title_clean": "Pajama Game, The",
+        "genres": "Comedy|Musical|Romance",
+        "year": 1957
+      },
+      {
+        "title_clean": "South Pacific",
+        "genres": "Musical|Romance|War",
+        "year": 1958
+      },
+      {
+        "title_clean": "Guys and Dolls",
+        "genres": "Comedy|Musical|Romance",
+        "year": 1955
+      }
+    ],
+    "recommendations": [
+      {
+        "title_clean": "Wallace & Gromit: A Close Shave",
+        "genres": "Animation|Children|Comedy",
+        "year": 1995
+      },
+      {
+        "title_clean": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+        "genres": "Comedy|War",
+        "year": 1964
+      },
+      {
+        "title_clean": "Gone with the Wind",
+        "genres": "Drama|Romance|War",
+        "year": 1939
+      },
+      {
+        "title_clean": "Wallace & Gromit: The Wrong Trousers",
+        "genres": "Animation|Children|Comedy|Crime",
+        "year": 1993
+      },
+      {
+        "title_clean": "Princess Bride, The",
+        "genres": "Action|Adventure|Comedy|Fantasy|Romance",
+        "year": 1987
+      },
+      {
+        "title_clean": "Groundhog Day",
+        "genres": "Comedy|Fantasy|Romance",
+        "year": 1993
+      },
+      {
+        "title_clean": "Back to the Future",
+        "genres": "Adventure|Comedy|Sci-Fi",
+        "year": 1985
+      },
+      {
+        "title_clean": "When Harry Met Sally...",
+        "genres": "Comedy|Romance",
+        "year": 1989
+      },
+      {
+        "title_clean": "Shakespeare in Love",
+        "genres": "Comedy|Drama|Romance",
+        "year": 1998
+      },
+      {
+        "title_clean": "Christmas Story, A",
+        "genres": "Children|Comedy",
+        "year": 1983
+      }
+    ]
+  },
+  "21497": {
+    "user_idx": 21497,
+    "watch_history": [
+      {
+        "title_clean": "Heavenly Creatures",
+        "genres": "Crime|Drama",
+        "year": 1994
+      },
+      {
+        "title_clean": "Pulp Fiction",
+        "genres": "Comedy|Crime|Drama|Thriller",
+        "year": 1994
+      },
+      {
+        "title_clean": "Reservoir Dogs",
+        "genres": "Crime|Mystery|Thriller",
+        "year": 1992
+      },
+      {
+        "title_clean": "Goodfellas",
+        "genres": "Crime|Drama",
+        "year": 1990
+      },
+      {
+        "title_clean": "Touch of Evil",
+        "genres": "Crime|Film-Noir|Thriller",
+        "year": 1958
+      },
+      {
+        "title_clean": "L.A. Confidential",
+        "genres": "Crime|Film-Noir|Mystery|Thriller",
+        "year": 1997
+      },
+      {
+        "title_clean": "Big",
+        "genres": "Comedy|Drama|Fantasy|Romance",
+        "year": 1988
+      },
+      {
+        "title_clean": "Sydney (Hard Eight)",
+        "genres": "Crime|Drama|Thriller",
+        "year": 1996
+      },
+      {
+        "title_clean": "Dog Day Afternoon",
+        "genres": "Crime|Drama",
+        "year": 1975
+      },
+      {
+        "title_clean": "Bachelor Party",
+        "genres": "Comedy",
+        "year": 1984
+      }
+    ],
+    "recommendations": [
+      {
+        "title_clean": "Star Wars: Episode IV - A New Hope",
+        "genres": "Action|Adventure|Sci-Fi",
+        "year": 1977
+      },
+      {
+        "title_clean": "Fugitive, The",
+        "genres": "Thriller",
+        "year": 1993
+      },
+      {
+        "title_clean": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+        "genres": "Comedy|War",
+        "year": 1964
+      },
+      {
+        "title_clean": "Die Hard",
+        "genres": "Action|Crime|Thriller",
+        "year": 1988
+      },
+      {
+        "title_clean": "Fish Called Wanda, A",
+        "genres": "Comedy|Crime",
+        "year": 1988
+      },
+      {
+        "title_clean": "Back to the Future",
+        "genres": "Adventure|Comedy|Sci-Fi",
+        "year": 1985
+      },
+      {
+        "title_clean": "L.A. Confidential",
+        "genres": "Crime|Film-Noir|Mystery|Thriller",
+        "year": 1997
+      },
+      {
+        "title_clean": "Big Lebowski, The",
+        "genres": "Comedy|Crime",
+        "year": 1998
+      },
+      {
+        "title_clean": "Lock, Stock & Two Smoking Barrels",
+        "genres": "Comedy|Crime|Thriller",
+        "year": 1998
+      },
+      {
+        "title_clean": "Matrix, The",
+        "genres": "Action|Sci-Fi|Thriller",
+        "year": 1999
+      }
+    ]
+  },
+  "27042": {
+    "user_idx": 27042,
+    "watch_history": [
+      {
+        "title_clean": "Casino",
+        "genres": "Crime|Drama",
+        "year": 1995
+      },
+      {
+        "title_clean": "Taxi Driver",
+        "genres": "Crime|Drama|Thriller",
+        "year": 1976
+      },
+      {
+        "title_clean": "North by Northwest",
+        "genres": "Action|Adventure|Mystery|Romance|Thriller",
+        "year": 1959
+      },
+      {
+        "title_clean": "Rebel Without a Cause",
+        "genres": "Drama",
+        "year": 1955
+      },
+      {
+        "title_clean": "Cape Fear",
+        "genres": "Thriller",
+        "year": 1991
+      },
+      {
+        "title_clean": "Full Monty, The",
+        "genres": "Comedy|Drama",
+        "year": 1997
+      },
+      {
+        "title_clean": "Witness",
+        "genres": "Drama|Romance|Thriller",
+        "year": 1985
+      },
+      {
+        "title_clean": "Fight Club",
+        "genres": "Action|Crime|Drama|Thriller",
+        "year": 1999
+      },
+      {
+        "title_clean": "Bringing Out the Dead",
+        "genres": "Drama",
+        "year": 1999
+      },
+      {
+        "title_clean": "General, The",
+        "genres": "Comedy|War",
+        "year": 1926
+      }
+    ],
+    "recommendations": [
+      {
+        "title_clean": "Apollo 13",
+        "genres": "Adventure|Drama|IMAX",
+        "year": 1995
+      },
+      {
+        "title_clean": "Star Wars: Episode IV - A New Hope",
+        "genres": "Action|Adventure|Sci-Fi",
+        "year": 1977
+      },
+      {
+        "title_clean": "Fugitive, The",
+        "genres": "Thriller",
+        "year": 1993
+      },
+      {
+        "title_clean": "Reservoir Dogs",
+        "genres": "Crime|Mystery|Thriller",
+        "year": 1992
+      },
+      {
+        "title_clean": "Star Wars: Episode V - The Empire Strikes Back",
+        "genres": "Action|Adventure|Sci-Fi",
+        "year": 1980
+      },
+      {
+        "title_clean": "Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark)",
+        "genres": "Action|Adventure",
+        "year": 1981
+      },
+      {
+        "title_clean": "Star Wars: Episode VI - Return of the Jedi",
+        "genres": "Action|Adventure|Sci-Fi",
+        "year": 1983
+      },
+      {
+        "title_clean": "Terminator, The",
+        "genres": "Action|Sci-Fi|Thriller",
+        "year": 1984
+      },
+      {
+        "title_clean": "Indiana Jones and the Last Crusade",
+        "genres": "Action|Adventure",
+        "year": 1989
+      },
+      {
+        "title_clean": "Hunt for Red October, The",
+        "genres": "Action|Adventure|Thriller",
+        "year": 1990
+      }
+    ]
+  },
+  "32859": {
+    "user_idx": 32859,
+    "watch_history": [
+      {
+        "title_clean": "Congo",
+        "genres": "Action|Adventure|Mystery|Sci-Fi",
+        "year": 1995
+      },
+      {
+        "title_clean": "Rear Window",
+        "genres": "Mystery|Thriller",
+        "year": 1954
+      },
+      {
+        "title_clean": "Beautician and the Beast, The",
+        "genres": "Comedy|Romance",
+        "year": 1997
+      },
+      {
+        "title_clean": "Along Came a Spider",
+        "genres": "Action|Crime|Mystery|Thriller",
+        "year": 2001
+      },
+      {
+        "title_clean": "Riding in Cars with Boys",
+        "genres": "Comedy|Drama",
+        "year": 2001
+      },
+      {
+        "title_clean": "Gosford Park",
+        "genres": "Comedy|Drama|Mystery",
+        "year": 2001
+      },
+      {
+        "title_clean": "Sorority Boys",
+        "genres": "Comedy",
+        "year": 2002
+      },
+      {
+        "title_clean": "Red Dragon",
+        "genres": "Crime|Mystery|Thriller",
+        "year": 2002
+      },
+      {
+        "title_clean": "Ring, The",
+        "genres": "Horror|Mystery|Thriller",
+        "year": 2002
+      },
+      {
+        "title_clean": "Return to the Blue Lagoon",
+        "genres": "Adventure|Romance",
+        "year": 1991
+      }
+    ],
+    "recommendations": [
+      {
+        "title_clean": "E.T. the Extra-Terrestrial",
+        "genres": "Children|Drama|Sci-Fi",
+        "year": 1982
+      },
+      {
+        "title_clean": "Star Wars: Episode V - The Empire Strikes Back",
+        "genres": "Action|Adventure|Sci-Fi",
+        "year": 1980
+      },
+      {
+        "title_clean": "Princess Bride, The",
+        "genres": "Action|Adventure|Comedy|Fantasy|Romance",
+        "year": 1987
+      },
+      {
+        "title_clean": "Aliens",
+        "genres": "Action|Adventure|Horror|Sci-Fi",
+        "year": 1986
+      },
+      {
+        "title_clean": "Terminator, The",
+        "genres": "Action|Sci-Fi|Thriller",
+        "year": 1984
+      },
+      {
+        "title_clean": "Stand by Me",
+        "genres": "Adventure|Drama",
+        "year": 1986
+      },
+      {
+        "title_clean": "Jaws",
+        "genres": "Action|Horror",
+        "year": 1975
+      },
+      {
+        "title_clean": "Matrix, The",
+        "genres": "Action|Sci-Fi|Thriller",
+        "year": 1999
+      },
+      {
+        "title_clean": "Who Framed Roger Rabbit?",
+        "genres": "Adventure|Animation|Children|Comedy|Crime|Fantasy|Mystery",
+        "year": 1988
+      },
+      {
+        "title_clean": "Lord of the Rings: The Fellowship of the Ring, The",
+        "genres": "Adventure|Fantasy",
+        "year": 2001
+      }
+    ]
+  },
+  "45514": {
+    "user_idx": 45514,
+    "watch_history": [
+      {
+        "title_clean": "Toy Story",
+        "genres": "Adventure|Animation|Children|Comedy|Fantasy",
+        "year": 1995
+      },
+      {
+        "title_clean": "Eat Drink Man Woman (Yin shi nan nu)",
+        "genres": "Comedy|Drama|Romance",
+        "year": 1994
+      },
+      {
+        "title_clean": "Faust",
+        "genres": "Animation|Comedy|Thriller",
+        "year": 1994
+      },
+      {
+        "title_clean": "Delicatessen",
+        "genres": "Comedy|Drama|Romance",
+        "year": 1991
+      },
+      {
+        "title_clean": "Grand Day Out with Wallace and Gromit, A",
+        "genres": "Adventure|Animation|Children|Comedy|Sci-Fi",
+        "year": 1989
+      },
+      {
+        "title_clean": "Men in Black (a.k.a. MIB)",
+        "genres": "Action|Comedy|Sci-Fi",
+        "year": 1997
+      },
+      {
+        "title_clean": "Happiness",
+        "genres": "Comedy|Drama",
+        "year": 1998
+      },
+      {
+        "title_clean": "Fly, The",
+        "genres": "Horror|Mystery|Sci-Fi",
+        "year": 1958
+      },
+      {
+        "title_clean": "Requiem for a Dream",
+        "genres": "Drama",
+        "year": 2000
+      },
+      {
+        "title_clean": "Unbreakable",
+        "genres": "Drama|Sci-Fi",
+        "year": 2000
+      }
+    ],
+    "recommendations": [
+      {
+        "title_clean": "Pulp Fiction",
+        "genres": "Comedy|Crime|Drama|Thriller",
+        "year": 1994
+      },
+      {
+        "title_clean": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+        "genres": "Comedy|War",
+        "year": 1964
+      },
+      {
+        "title_clean": "Reservoir Dogs",
+        "genres": "Crime|Mystery|Thriller",
+        "year": 1992
+      },
+      {
+        "title_clean": "Monty Python and the Holy Grail",
+        "genres": "Adventure|Comedy|Fantasy",
+        "year": 1975
+      },
+      {
+        "title_clean": "Graduate, The",
+        "genres": "Comedy|Drama|Romance",
+        "year": 1967
+      },
+      {
+        "title_clean": "Chinatown",
+        "genres": "Crime|Film-Noir|Mystery|Thriller",
+        "year": 1974
+      },
+      {
+        "title_clean": "Shining, The",
+        "genres": "Horror",
+        "year": 1980
+      },
+      {
+        "title_clean": "L.A. Confidential",
+        "genres": "Crime|Film-Noir|Mystery|Thriller",
+        "year": 1997
+      },
+      {
+        "title_clean": "Big Lebowski, The",
+        "genres": "Comedy|Crime",
+        "year": 1998
+      },
+      {
+        "title_clean": "Being John Malkovich",
+        "genres": "Comedy|Drama|Fantasy",
+        "year": 1999
+      }
+    ]
+  },
+  "46303": {
+    "user_idx": 46303,
+    "watch_history": [
+      {
+        "title_clean": "True Lies",
+        "genres": "Action|Adventure|Comedy|Romance|Thriller",
+        "year": 1994
+      },
+      {
+        "title_clean": "Airheads",
+        "genres": "Comedy",
+        "year": 1994
+      },
+      {
+        "title_clean": "Fugitive, The",
+        "genres": "Thriller",
+        "year": 1993
+      },
+      {
+        "title_clean": "Supercop (Police Story 3: Supercop) (Jing cha gu shi III: Chao ji jing cha)",
+        "genres": "Action|Comedy|Crime|Thriller",
+        "year": 1992
+      },
+      {
+        "title_clean": "Night of the Living Dead",
+        "genres": "Horror|Sci-Fi|Thriller",
+        "year": 1968
+      },
+      {
+        "title_clean": "Abyss, The",
+        "genres": "Action|Adventure|Sci-Fi|Thriller",
+        "year": 1989
+      },
+      {
+        "title_clean": "Psycho",
+        "genres": "Crime|Horror",
+        "year": 1960
+      },
+      {
+        "title_clean": "Birds, The",
+        "genres": "Horror|Thriller",
+        "year": 1963
+      },
+      {
+        "title_clean": "Carrie",
+        "genres": "Drama|Fantasy|Horror|Thriller",
+        "year": 1976
+      },
+      {
+        "title_clean": "Chasing Amy",
+        "genres": "Comedy|Drama|Romance",
+        "year": 1997
+      }
+    ],
+    "recommendations": [
+      {
+        "title_clean": "Heat",
+        "genres": "Action|Crime|Thriller",
+        "year": 1995
+      },
+      {
+        "title_clean": "Seven (a.k.a. Se7en)",
+        "genres": "Mystery|Thriller",
+        "year": 1995
+      },
+      {
+        "title_clean": "Usual Suspects, The",
+        "genres": "Crime|Mystery|Thriller",
+        "year": 1995
+      },
+      {
+        "title_clean": "Pulp Fiction",
+        "genres": "Comedy|Crime|Drama|Thriller",
+        "year": 1994
+      },
+      {
+        "title_clean": "Speed",
+        "genres": "Action|Romance|Thriller",
+        "year": 1994
+      },
+      {
+        "title_clean": "Fugitive, The",
+        "genres": "Thriller",
+        "year": 1993
+      },
+      {
+        "title_clean": "True Romance",
+        "genres": "Crime|Thriller",
+        "year": 1993
+      },
+      {
+        "title_clean": "Mission: Impossible",
+        "genres": "Action|Adventure|Mystery|Thriller",
+        "year": 1996
+      },
+      {
+        "title_clean": "Die Hard",
+        "genres": "Action|Crime|Thriller",
+        "year": 1988
+      },
+      {
+        "title_clean": "Reservoir Dogs",
+        "genres": "Crime|Mystery|Thriller",
+        "year": 1992
+      }
+    ]
+  },
+  "51226": {
+    "user_idx": 51226,
+    "watch_history": [
+      {
+        "title_clean": "Croupier",
+        "genres": "Crime|Drama",
+        "year": 1998
+      },
+      {
+        "title_clean": "Pollock",
+        "genres": "Drama",
+        "year": 2000
+      },
+      {
+        "title_clean": "Bang, Bang, You're Dead",
+        "genres": "Drama",
+        "year": 2002
+      },
+      {
+        "title_clean": "Inside Deep Throat",
+        "genres": "Documentary",
+        "year": 2005
+      },
+      {
+        "title_clean": "Squid and the Whale, The",
+        "genres": "Comedy|Drama",
+        "year": 2005
+      },
+      {
+        "title_clean": "Tsotsi",
+        "genres": "Crime|Drama",
+        "year": 2005
+      },
+      {
+        "title_clean": "In Bruges",
+        "genres": "Comedy|Crime|Drama|Thriller",
+        "year": 2008
+      },
+      {
+        "title_clean": "Shine a Light",
+        "genres": "Documentary|Musical|IMAX",
+        "year": 2008
+      },
+      {
+        "title_clean": "Slumdog Millionaire",
+        "genres": "Crime|Drama|Romance",
+        "year": 2008
+      },
+      {
+        "title_clean": "Gran Torino",
+        "genres": "Crime|Drama",
+        "year": 2008
+      }
+    ],
+    "recommendations": [
+      {
+        "title_clean": "Two-Lane Blacktop",
+        "genres": "Drama",
+        "year": 1971
+      },
+      {
+        "title_clean": "Element of Crime, The (Forbrydelsens Element)",
+        "genres": "Drama|Thriller",
+        "year": 1984
+      },
+      {
+        "title_clean": "Baxter",
+        "genres": "Drama|Horror",
+        "year": 1989
+      },
+      {
+        "title_clean": "Shame (Skammen)",
+        "genres": "Drama|War",
+        "year": 1968
+      },
+      {
+        "title_clean": "Lower Depths, The (Donzoko)",
+        "genres": "Comedy|Drama",
+        "year": 1957
+      },
+      {
+        "title_clean": "Set-Up, The",
+        "genres": "Drama|Film-Noir|Romance",
+        "year": 1949
+      },
+      {
+        "title_clean": "Young and the Damned, The (Olvidados, Los)",
+        "genres": "Crime|Drama",
+        "year": 1950
+      },
+      {
+        "title_clean": "Bride Wore Black, The (La mari\u00e9e \u00e9tait en noir)",
+        "genres": "Crime|Drama",
+        "year": 1968
+      },
+      {
+        "title_clean": "Scarecrow",
+        "genres": "Drama",
+        "year": 1973
+      },
+      {
+        "title_clean": "Saddest Music in the World, The",
+        "genres": "Comedy|Drama|Fantasy|Musical|Romance",
+        "year": 2003
+      }
+    ]
+  },
+  "56697": {
+    "user_idx": 56697,
+    "watch_history": [
+      {
+        "title_clean": "Boys on the Side",
+        "genres": "Comedy|Drama",
+        "year": 1995
+      },
+      {
+        "title_clean": "Four Weddings and a Funeral",
+        "genres": "Comedy|Romance",
+        "year": 1994
+      },
+      {
+        "title_clean": "Ref, The",
+        "genres": "Comedy",
+        "year": 1994
+      },
+      {
+        "title_clean": "Old Man and the Sea, The",
+        "genres": "Adventure|Drama",
+        "year": 1958
+      },
+      {
+        "title_clean": "Grifters, The",
+        "genres": "Crime|Drama|Film-Noir",
+        "year": 1990
+      },
+      {
+        "title_clean": "Femme Nikita, La (Nikita)",
+        "genres": "Action|Crime|Romance|Thriller",
+        "year": 1990
+      },
+      {
+        "title_clean": "Shine",
+        "genres": "Drama|Romance",
+        "year": 1996
+      },
+      {
+        "title_clean": "Big Lebowski, The",
+        "genres": "Comedy|Crime",
+        "year": 1998
+      },
+      {
+        "title_clean": "How Green Was My Valley",
+        "genres": "Drama|Musical|Romance",
+        "year": 1941
+      },
+      {
+        "title_clean": "Women on the Verge of a Nervous Breakdown (Mujeres al borde de un ataque de nervios)",
+        "genres": "Comedy|Drama",
+        "year": 1988
+      }
+    ],
+    "recommendations": [
+      {
+        "title_clean": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+        "genres": "Comedy|War",
+        "year": 1964
+      },
+      {
+        "title_clean": "Godfather, The",
+        "genres": "Crime|Drama",
+        "year": 1972
+      },
+      {
+        "title_clean": "North by Northwest",
+        "genres": "Action|Adventure|Mystery|Romance|Thriller",
+        "year": 1959
+      },
+      {
+        "title_clean": "Casablanca",
+        "genres": "Drama|Romance",
+        "year": 1942
+      },
+      {
+        "title_clean": "Sound of Music, The",
+        "genres": "Musical|Romance",
+        "year": 1965
+      },
+      {
+        "title_clean": "Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark)",
+        "genres": "Action|Adventure",
+        "year": 1981
+      },
+      {
+        "title_clean": "Graduate, The",
+        "genres": "Comedy|Drama|Romance",
+        "year": 1967
+      },
+      {
+        "title_clean": "Bridge on the River Kwai, The",
+        "genres": "Adventure|Drama|War",
+        "year": 1957
+      },
+      {
+        "title_clean": "Chinatown",
+        "genres": "Crime|Film-Noir|Mystery|Thriller",
+        "year": 1974
+      },
+      {
+        "title_clean": "L.A. Confidential",
+        "genres": "Crime|Film-Noir|Mystery|Thriller",
+        "year": 1997
+      }
+    ]
+  },
+  "60059": {
+    "user_idx": 60059,
+    "watch_history": [
+      {
+        "title_clean": "Bottle Rocket",
+        "genres": "Adventure|Comedy|Crime|Romance",
+        "year": 1996
+      },
+      {
+        "title_clean": "Wings of Desire (Himmel \u00fcber Berlin, Der)",
+        "genres": "Drama|Fantasy|Romance",
+        "year": 1987
+      },
+      {
+        "title_clean": "Rushmore",
+        "genres": "Comedy|Drama",
+        "year": 1998
+      },
+      {
+        "title_clean": "Color Purple, The",
+        "genres": "Drama",
+        "year": 1985
+      },
+      {
+        "title_clean": "Do the Right Thing",
+        "genres": "Drama",
+        "year": 1989
+      },
+      {
+        "title_clean": "Best in Show",
+        "genres": "Comedy",
+        "year": 2000
+      },
+      {
+        "title_clean": "And Your Mother Too (Y tu mam\u00e1 tambi\u00e9n)",
+        "genres": "Drama|Romance",
+        "year": 2001
+      },
+      {
+        "title_clean": "Unfaithful",
+        "genres": "Drama|Thriller",
+        "year": 2002
+      },
+      {
+        "title_clean": "Mighty Wind, A",
+        "genres": "Comedy|Musical",
+        "year": 2003
+      },
+      {
+        "title_clean": "Capturing the Friedmans",
+        "genres": "Documentary",
+        "year": 2003
+      }
+    ],
+    "recommendations": [
+      {
+        "title_clean": "Usual Suspects, The",
+        "genres": "Crime|Mystery|Thriller",
+        "year": 1995
+      },
+      {
+        "title_clean": "Pulp Fiction",
+        "genres": "Comedy|Crime|Drama|Thriller",
+        "year": 1994
+      },
+      {
+        "title_clean": "Vertigo",
+        "genres": "Drama|Mystery|Romance|Thriller",
+        "year": 1958
+      },
+      {
+        "title_clean": "Apocalypse Now",
+        "genres": "Action|Drama|War",
+        "year": 1979
+      },
+      {
+        "title_clean": "Goodfellas",
+        "genres": "Crime|Drama",
+        "year": 1990
+      },
+      {
+        "title_clean": "Psycho",
+        "genres": "Crime|Horror",
+        "year": 1960
+      },
+      {
+        "title_clean": "Godfather: Part II, The",
+        "genres": "Crime|Drama",
+        "year": 1974
+      },
+      {
+        "title_clean": "Chinatown",
+        "genres": "Crime|Film-Noir|Mystery|Thriller",
+        "year": 1974
+      },
+      {
+        "title_clean": "Shining, The",
+        "genres": "Horror",
+        "year": 1980
+      },
+      {
+        "title_clean": "Big Lebowski, The",
+        "genres": "Comedy|Crime",
+        "year": 1998
+      }
+    ]
+  },
+  "60964": {
+    "user_idx": 60964,
+    "watch_history": [
+      {
+        "title_clean": "Lion King, The",
+        "genres": "Adventure|Animation|Children|Drama|Musical|IMAX",
+        "year": 1994
+      },
+      {
+        "title_clean": "Mask, The",
+        "genres": "Action|Comedy|Crime|Fantasy",
+        "year": 1994
+      },
+      {
+        "title_clean": "True Lies",
+        "genres": "Action|Adventure|Comedy|Romance|Thriller",
+        "year": 1994
+      },
+      {
+        "title_clean": "Coneheads",
+        "genres": "Comedy|Sci-Fi",
+        "year": 1993
+      },
+      {
+        "title_clean": "Jurassic Park",
+        "genres": "Action|Adventure|Sci-Fi|Thriller",
+        "year": 1993
+      },
+      {
+        "title_clean": "Mrs. Doubtfire",
+        "genres": "Comedy|Drama",
+        "year": 1993
+      },
+      {
+        "title_clean": "Aladdin",
+        "genres": "Adventure|Animation|Children|Comedy|Musical",
+        "year": 1992
+      },
+      {
+        "title_clean": "Rock, The",
+        "genres": "Action|Adventure|Thriller",
+        "year": 1996
+      },
+      {
+        "title_clean": "Trainspotting",
+        "genres": "Comedy|Crime|Drama",
+        "year": 1996
+      },
+      {
+        "title_clean": "Groundhog Day",
+        "genres": "Comedy|Fantasy|Romance",
+        "year": 1993
+      }
+    ],
+    "recommendations": [
+      {
+        "title_clean": "Die Hard",
+        "genres": "Action|Crime|Thriller",
+        "year": 1988
+      },
+      {
+        "title_clean": "Star Wars: Episode V - The Empire Strikes Back",
+        "genres": "Action|Adventure|Sci-Fi",
+        "year": 1980
+      },
+      {
+        "title_clean": "Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark)",
+        "genres": "Action|Adventure",
+        "year": 1981
+      },
+      {
+        "title_clean": "Terminator, The",
+        "genres": "Action|Sci-Fi|Thriller",
+        "year": 1984
+      },
+      {
+        "title_clean": "Indiana Jones and the Last Crusade",
+        "genres": "Action|Adventure",
+        "year": 1989
+      },
+      {
+        "title_clean": "Star Trek: First Contact",
+        "genres": "Action|Adventure|Sci-Fi|Thriller",
+        "year": 1996
+      },
+      {
+        "title_clean": "Matrix, The",
+        "genres": "Action|Sci-Fi|Thriller",
+        "year": 1999
+      },
+      {
+        "title_clean": "Gladiator",
+        "genres": "Action|Adventure|Drama",
+        "year": 2000
+      },
+      {
+        "title_clean": "Lord of the Rings: The Fellowship of the Ring, The",
+        "genres": "Adventure|Fantasy",
+        "year": 2001
+      },
+      {
+        "title_clean": "Lord of the Rings: The Return of the King, The",
+        "genres": "Action|Adventure|Drama|Fantasy",
+        "year": 2003
+      }
+    ]
+  },
+  "79027": {
+    "user_idx": 79027,
+    "watch_history": [
+      {
+        "title_clean": "Others, The",
+        "genres": "Drama|Horror|Mystery|Thriller",
+        "year": 2001
+      },
+      {
+        "title_clean": "Cuckoo, The (Kukushka)",
+        "genres": "Comedy|Drama|War",
+        "year": 2002
+      },
+      {
+        "title_clean": "Open Range",
+        "genres": "Western",
+        "year": 2003
+      },
+      {
+        "title_clean": "Shaun of the Dead",
+        "genres": "Comedy|Horror",
+        "year": 2004
+      },
+      {
+        "title_clean": "Black Book (Zwartboek)",
+        "genres": "Drama|Thriller|War",
+        "year": 2006
+      },
+      {
+        "title_clean": "American Gangster",
+        "genres": "Crime|Drama|Thriller",
+        "year": 2007
+      },
+      {
+        "title_clean": "Iron Man",
+        "genres": "Action|Adventure|Sci-Fi",
+        "year": 2008
+      },
+      {
+        "title_clean": "Eagle Eye",
+        "genres": "Action|Crime|Thriller|IMAX",
+        "year": 2008
+      },
+      {
+        "title_clean": "Body of Lies",
+        "genres": "Action|Drama|Thriller",
+        "year": 2008
+      },
+      {
+        "title_clean": "Sex Drive",
+        "genres": "Comedy",
+        "year": 2008
+      }
+    ],
+    "recommendations": [
+      {
+        "title_clean": "Who Framed Roger Rabbit?",
+        "genres": "Adventure|Animation|Children|Comedy|Crime|Fantasy|Mystery",
+        "year": 1988
+      },
+      {
+        "title_clean": "X-Men",
+        "genres": "Action|Adventure|Sci-Fi",
+        "year": 2000
+      },
+      {
+        "title_clean": "Mindhunters",
+        "genres": "Action|Crime|Horror|Mystery|Thriller",
+        "year": 2004
+      },
+      {
+        "title_clean": "Legend of Zorro, The",
+        "genres": "Action|Adventure|Drama|Western",
+        "year": 2005
+      },
+      {
+        "title_clean": "Firewall",
+        "genres": "Crime|Drama|Thriller",
+        "year": 2006
+      },
+      {
+        "title_clean": "Fast and the Furious: Tokyo Drift, The (Fast and the Furious 3, The)",
+        "genres": "Action|Crime|Drama|Thriller",
+        "year": 2006
+      },
+      {
+        "title_clean": "AVPR: Aliens vs. Predator - Requiem",
+        "genres": "Action|Horror|Sci-Fi",
+        "year": 2007
+      },
+      {
+        "title_clean": "10,000 BC",
+        "genres": "Adventure|Romance|Thriller",
+        "year": 2008
+      },
+      {
+        "title_clean": "Hancock",
+        "genres": "Action|Adventure|Comedy|Crime|Fantasy",
+        "year": 2008
+      },
+      {
+        "title_clean": "Mummy: Tomb of the Dragon Emperor, The",
+        "genres": "Action|Adventure|Fantasy|Thriller",
+        "year": 2008
+      }
+    ]
+  },
+  "85919": {
+    "user_idx": 85919,
+    "watch_history": [
+      {
+        "title_clean": "Shawshank Redemption, The",
+        "genres": "Crime|Drama",
+        "year": 1994
+      },
+      {
+        "title_clean": "Citizen Kane",
+        "genres": "Drama|Mystery",
+        "year": 1941
+      },
+      {
+        "title_clean": "12 Angry Men",
+        "genres": "Drama",
+        "year": 1957
+      },
+      {
+        "title_clean": "Groundhog Day",
+        "genres": "Comedy|Fantasy|Romance",
+        "year": 1993
+      },
+      {
+        "title_clean": "Back to the Future",
+        "genres": "Adventure|Comedy|Sci-Fi",
+        "year": 1985
+      },
+      {
+        "title_clean": "American History X",
+        "genres": "Crime|Drama",
+        "year": 1998
+      },
+      {
+        "title_clean": "Modern Times",
+        "genres": "Comedy|Drama|Romance",
+        "year": 1936
+      },
+      {
+        "title_clean": "Close Encounters of the Third Kind",
+        "genres": "Adventure|Drama|Sci-Fi",
+        "year": 1977
+      },
+      {
+        "title_clean": "Capturing the Friedmans",
+        "genres": "Documentary",
+        "year": 2003
+      },
+      {
+        "title_clean": "28 Days Later",
+        "genres": "Action|Horror|Sci-Fi",
+        "year": 2002
+      }
+    ],
+    "recommendations": [
+      {
+        "title_clean": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+        "genres": "Comedy|War",
+        "year": 1964
+      },
+      {
+        "title_clean": "Fish Called Wanda, A",
+        "genres": "Comedy|Crime",
+        "year": 1988
+      },
+      {
+        "title_clean": "Reservoir Dogs",
+        "genres": "Crime|Mystery|Thriller",
+        "year": 1992
+      },
+      {
+        "title_clean": "Psycho",
+        "genres": "Crime|Horror",
+        "year": 1960
+      },
+      {
+        "title_clean": "Chinatown",
+        "genres": "Crime|Film-Noir|Mystery|Thriller",
+        "year": 1974
+      },
+      {
+        "title_clean": "Shining, The",
+        "genres": "Horror",
+        "year": 1980
+      },
+      {
+        "title_clean": "Lock, Stock & Two Smoking Barrels",
+        "genres": "Comedy|Crime|Thriller",
+        "year": 1998
+      },
+      {
+        "title_clean": "Run Lola Run (Lola rennt)",
+        "genres": "Action|Crime",
+        "year": 1998
+      },
+      {
+        "title_clean": "Magnolia",
+        "genres": "Drama",
+        "year": 1999
+      },
+      {
+        "title_clean": "Requiem for a Dream",
+        "genres": "Drama",
+        "year": 2000
+      }
+    ]
+  },
+  "94685": {
+    "user_idx": 94685,
+    "watch_history": [
+      {
+        "title_clean": "Shallow Grave",
+        "genres": "Comedy|Drama|Thriller",
+        "year": 1994
+      },
+      {
+        "title_clean": "Dave",
+        "genres": "Comedy|Romance",
+        "year": 1993
+      },
+      {
+        "title_clean": "Kids in the Hall: Brain Candy",
+        "genres": "Comedy",
+        "year": 1996
+      },
+      {
+        "title_clean": "Some Folks Call It a Sling Blade",
+        "genres": "Drama|Thriller",
+        "year": 1993
+      },
+      {
+        "title_clean": "Austin Powers: International Man of Mystery",
+        "genres": "Action|Adventure|Comedy",
+        "year": 1997
+      },
+      {
+        "title_clean": "Bug's Life, A",
+        "genres": "Adventure|Animation|Children|Comedy",
+        "year": 1998
+      },
+      {
+        "title_clean": "Fly, The",
+        "genres": "Drama|Horror|Sci-Fi|Thriller",
+        "year": 1986
+      },
+      {
+        "title_clean": "Little Shop of Horrors",
+        "genres": "Comedy|Horror|Musical",
+        "year": 1986
+      },
+      {
+        "title_clean": "Batman: Mask of the Phantasm",
+        "genres": "Animation|Children",
+        "year": 1993
+      },
+      {
+        "title_clean": "Wayne's World",
+        "genres": "Comedy",
+        "year": 1992
+      }
+    ],
+    "recommendations": [
+      {
+        "title_clean": "Toy Story",
+        "genres": "Adventure|Animation|Children|Comedy|Fantasy",
+        "year": 1995
+      },
+      {
+        "title_clean": "Star Wars: Episode IV - A New Hope",
+        "genres": "Action|Adventure|Sci-Fi",
+        "year": 1977
+      },
+      {
+        "title_clean": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+        "genres": "Comedy|War",
+        "year": 1964
+      },
+      {
+        "title_clean": "Monty Python and the Holy Grail",
+        "genres": "Adventure|Comedy|Fantasy",
+        "year": 1975
+      },
+      {
+        "title_clean": "Star Wars: Episode V - The Empire Strikes Back",
+        "genres": "Action|Adventure|Sci-Fi",
+        "year": 1980
+      },
+      {
+        "title_clean": "Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark)",
+        "genres": "Action|Adventure",
+        "year": 1981
+      },
+      {
+        "title_clean": "Aliens",
+        "genres": "Action|Adventure|Horror|Sci-Fi",
+        "year": 1986
+      },
+      {
+        "title_clean": "Star Wars: Episode VI - Return of the Jedi",
+        "genres": "Action|Adventure|Sci-Fi",
+        "year": 1983
+      },
+      {
+        "title_clean": "Back to the Future",
+        "genres": "Adventure|Comedy|Sci-Fi",
+        "year": 1985
+      },
+      {
+        "title_clean": "Indiana Jones and the Last Crusade",
+        "genres": "Action|Adventure",
+        "year": 1989
+      }
+    ]
+  },
+  "111143": {
+    "user_idx": 111143,
+    "watch_history": [
+      {
+        "title_clean": "Apartment, The",
+        "genres": "Comedy|Drama|Romance",
+        "year": 1960
+      },
+      {
+        "title_clean": "2001: A Space Odyssey",
+        "genres": "Adventure|Drama|Sci-Fi",
+        "year": 1968
+      },
+      {
+        "title_clean": "Parent Trap, The",
+        "genres": "Children|Comedy|Romance",
+        "year": 1961
+      },
+      {
+        "title_clean": "8 1/2 (8\u00bd)",
+        "genres": "Drama|Fantasy",
+        "year": 1963
+      },
+      {
+        "title_clean": "Spartacus",
+        "genres": "Action|Drama|Romance|War",
+        "year": 1960
+      },
+      {
+        "title_clean": "Lolita",
+        "genres": "Drama|Romance",
+        "year": 1962
+      },
+      {
+        "title_clean": "Easy Rider",
+        "genres": "Adventure|Drama",
+        "year": 1969
+      },
+      {
+        "title_clean": "Guess Who's Coming to Dinner",
+        "genres": "Drama",
+        "year": 1967
+      },
+      {
+        "title_clean": "Mission: Impossible II",
+        "genres": "Action|Adventure|Thriller",
+        "year": 2000
+      },
+      {
+        "title_clean": "Romeo and Juliet",
+        "genres": "Drama|Romance",
+        "year": 1968
+      }
+    ],
+    "recommendations": [
+      {
+        "title_clean": "Star Wars: Episode IV - A New Hope",
+        "genres": "Action|Adventure|Sci-Fi",
+        "year": 1977
+      },
+      {
+        "title_clean": "Star Wars: Episode V - The Empire Strikes Back",
+        "genres": "Action|Adventure|Sci-Fi",
+        "year": 1980
+      },
+      {
+        "title_clean": "Princess Bride, The",
+        "genres": "Action|Adventure|Comedy|Fantasy|Romance",
+        "year": 1987
+      },
+      {
+        "title_clean": "Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark)",
+        "genres": "Action|Adventure",
+        "year": 1981
+      },
+      {
+        "title_clean": "Aliens",
+        "genres": "Action|Adventure|Horror|Sci-Fi",
+        "year": 1986
+      },
+      {
+        "title_clean": "Star Wars: Episode VI - Return of the Jedi",
+        "genres": "Action|Adventure|Sci-Fi",
+        "year": 1983
+      },
+      {
+        "title_clean": "Terminator, The",
+        "genres": "Action|Sci-Fi|Thriller",
+        "year": 1984
+      },
+      {
+        "title_clean": "Back to the Future",
+        "genres": "Adventure|Comedy|Sci-Fi",
+        "year": 1985
+      },
+      {
+        "title_clean": "Indiana Jones and the Last Crusade",
+        "genres": "Action|Adventure",
+        "year": 1989
+      },
+      {
+        "title_clean": "Christmas Story, A",
+        "genres": "Children|Comedy",
+        "year": 1983
+      }
+    ]
+  },
+  "119756": {
+    "user_idx": 119756,
+    "watch_history": [
+      {
+        "title_clean": "Remains of the Day, The",
+        "genres": "Drama|Romance",
+        "year": 1993
+      },
+      {
+        "title_clean": "Man for All Seasons, A",
+        "genres": "Drama",
+        "year": 1966
+      },
+      {
+        "title_clean": "Jeremiah Johnson",
+        "genres": "Western",
+        "year": 1972
+      },
+      {
+        "title_clean": "Howards End",
+        "genres": "Drama",
+        "year": 1992
+      },
+      {
+        "title_clean": "Memento",
+        "genres": "Mystery|Thriller",
+        "year": 2000
+      },
+      {
+        "title_clean": "I Heart Huckabees",
+        "genres": "Comedy",
+        "year": 2004
+      },
+      {
+        "title_clean": "House of Angels (\u00c4nglag\u00e5rd)",
+        "genres": "Comedy|Drama",
+        "year": 1992
+      },
+      {
+        "title_clean": "World's Fastest Indian, The",
+        "genres": "Drama",
+        "year": 2005
+      },
+      {
+        "title_clean": "Queen, The",
+        "genres": "Drama",
+        "year": 2006
+      },
+      {
+        "title_clean": "Children of Men",
+        "genres": "Action|Adventure|Drama|Sci-Fi|Thriller",
+        "year": 2006
+      }
+    ],
+    "recommendations": [
+      {
+        "title_clean": "Adversary, The (L'adversaire)",
+        "genres": "Crime|Drama|Mystery|Thriller",
+        "year": 2002
+      },
+      {
+        "title_clean": "Bad Blood (Mauvais sang)",
+        "genres": "Crime|Drama|Romance",
+        "year": 1986
+      },
+      {
+        "title_clean": "Under the Bombs",
+        "genres": "Drama|War",
+        "year": 2007
+      },
+      {
+        "title_clean": "Deadly Circuit (Mortelle randonn\u00e9e)",
+        "genres": "Crime|Mystery|Thriller",
+        "year": 1983
+      },
+      {
+        "title_clean": "Cairo Station (a.k.a. Iron Gate, The) (Bab el hadid)",
+        "genres": "Crime|Drama",
+        "year": 1958
+      },
+      {
+        "title_clean": "Pruitt-Igoe Myth, The",
+        "genres": "Documentary|Drama",
+        "year": 2011
+      },
+      {
+        "title_clean": "Wild Horse, Wild Ride",
+        "genres": "Documentary|Western",
+        "year": 2011
+      },
+      {
+        "title_clean": "Silence, The (Das letzte Schweigen)",
+        "genres": "Crime|Drama|Thriller",
+        "year": 2010
+      },
+      {
+        "title_clean": "Jeffrey Dahmer Files, The",
+        "genres": "Crime|Documentary",
+        "year": 2012
+      },
+      {
+        "title_clean": "Space Station 76",
+        "genres": "Comedy|Drama|Sci-Fi",
+        "year": 2014
+      }
+    ]
+  },
+  "125653": {
+    "user_idx": 125653,
+    "watch_history": [
+      {
+        "title_clean": "Species",
+        "genres": "Horror|Sci-Fi",
+        "year": 1995
+      },
+      {
+        "title_clean": "French Kiss",
+        "genres": "Action|Comedy|Romance",
+        "year": 1995
+      },
+      {
+        "title_clean": "Last Action Hero",
+        "genres": "Action|Adventure|Comedy|Fantasy",
+        "year": 1993
+      },
+      {
+        "title_clean": "True Romance",
+        "genres": "Crime|Thriller",
+        "year": 1993
+      },
+      {
+        "title_clean": "Bonnie and Clyde",
+        "genres": "Crime|Drama",
+        "year": 1967
+      },
+      {
+        "title_clean": "Grease",
+        "genres": "Comedy|Musical|Romance",
+        "year": 1978
+      },
+      {
+        "title_clean": "Last of the Mohicans, The",
+        "genres": "Action|Romance|War|Western",
+        "year": 1992
+      },
+      {
+        "title_clean": "Wedding Singer, The",
+        "genres": "Comedy|Romance",
+        "year": 1998
+      },
+      {
+        "title_clean": "Back to the Future Part II",
+        "genres": "Adventure|Comedy|Sci-Fi",
+        "year": 1989
+      },
+      {
+        "title_clean": "Erin Brockovich",
+        "genres": "Drama",
+        "year": 2000
+      }
+    ],
+    "recommendations": [
+      {
+        "title_clean": "Top Gun",
+        "genres": "Action|Romance",
+        "year": 1986
+      },
+      {
+        "title_clean": "Blues Brothers, The",
+        "genres": "Action|Comedy|Musical",
+        "year": 1980
+      },
+      {
+        "title_clean": "Face/Off",
+        "genres": "Action|Crime|Drama|Thriller",
+        "year": 1997
+      },
+      {
+        "title_clean": "Good Will Hunting",
+        "genres": "Drama|Romance",
+        "year": 1997
+      },
+      {
+        "title_clean": "Toy Story 2",
+        "genres": "Adventure|Animation|Children|Comedy|Fantasy",
+        "year": 1999
+      },
+      {
+        "title_clean": "Ocean's Eleven",
+        "genres": "Crime|Thriller",
+        "year": 2001
+      },
+      {
+        "title_clean": "Lord of the Rings: The Fellowship of the Ring, The",
+        "genres": "Adventure|Fantasy",
+        "year": 2001
+      },
+      {
+        "title_clean": "Lord of the Rings: The Two Towers, The",
+        "genres": "Adventure|Fantasy",
+        "year": 2002
+      },
+      {
+        "title_clean": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "genres": "Action|Adventure|Comedy|Fantasy",
+        "year": 2003
+      },
+      {
+        "title_clean": "Lord of the Rings: The Return of the King, The",
+        "genres": "Action|Adventure|Drama|Fantasy",
+        "year": 2003
+      }
+    ]
+  },
+  "136246": {
+    "user_idx": 136246,
+    "watch_history": [
+      {
+        "title_clean": "Outbreak",
+        "genres": "Action|Drama|Sci-Fi|Thriller",
+        "year": 1995
+      },
+      {
+        "title_clean": "Boogie Nights",
+        "genres": "Drama",
+        "year": 1997
+      },
+      {
+        "title_clean": "Cutting Edge, The",
+        "genres": "Comedy|Drama|Romance",
+        "year": 1992
+      },
+      {
+        "title_clean": "What Lies Beneath",
+        "genres": "Drama|Horror|Mystery",
+        "year": 2000
+      },
+      {
+        "title_clean": "Steel Magnolias",
+        "genres": "Drama",
+        "year": 1989
+      },
+      {
+        "title_clean": "American Pie 2",
+        "genres": "Comedy",
+        "year": 2001
+      },
+      {
+        "title_clean": "Wicker Man, The",
+        "genres": "Drama|Horror|Mystery|Thriller",
+        "year": 1973
+      },
+      {
+        "title_clean": "Little Women",
+        "genres": "Drama|Romance",
+        "year": 1933
+      },
+      {
+        "title_clean": "M*A*S*H (a.k.a. MASH)",
+        "genres": "Comedy|Drama|War",
+        "year": 1970
+      },
+      {
+        "title_clean": "May",
+        "genres": "Drama|Horror",
+        "year": 2002
+      }
+    ],
+    "recommendations": [
+      {
+        "title_clean": "Speed",
+        "genres": "Action|Romance|Thriller",
+        "year": 1994
+      },
+      {
+        "title_clean": "Die Hard",
+        "genres": "Action|Crime|Thriller",
+        "year": 1988
+      },
+      {
+        "title_clean": "E.T. the Extra-Terrestrial",
+        "genres": "Children|Drama|Sci-Fi",
+        "year": 1982
+      },
+      {
+        "title_clean": "Hunt for Red October, The",
+        "genres": "Action|Adventure|Thriller",
+        "year": 1990
+      },
+      {
+        "title_clean": "As Good as It Gets",
+        "genres": "Comedy|Drama|Romance",
+        "year": 1997
+      },
+      {
+        "title_clean": "Saving Private Ryan",
+        "genres": "Action|Drama|War",
+        "year": 1998
+      },
+      {
+        "title_clean": "Matrix, The",
+        "genres": "Action|Sci-Fi|Thriller",
+        "year": 1999
+      },
+      {
+        "title_clean": "Fight Club",
+        "genres": "Action|Crime|Drama|Thriller",
+        "year": 1999
+      },
+      {
+        "title_clean": "Snatch",
+        "genres": "Comedy|Crime|Thriller",
+        "year": 2000
+      },
+      {
+        "title_clean": "Ocean's Eleven",
+        "genres": "Crime|Thriller",
+        "year": 2001
+      }
+    ]
+  }
+}

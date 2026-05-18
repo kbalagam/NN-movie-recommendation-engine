@@ -1,0 +1,41 @@
+paths:
+  root: "/Users/keerthanbalagam/Desktop/PROJECTS/NN Recommendation Engine"
+  raw_data: "/Users/keerthanbalagam/Desktop/PROJECTS/NN Recommendation Engine/data/raw"
+  processed_data: "/Users/keerthanbalagam/Desktop/PROJECTS/NN Recommendation Engine/data/processed"
+  models: "/Users/keerthanbalagam/Desktop/PROJECTS/NN Recommendation Engine/models"
+  logs: "/Users/keerthanbalagam/Desktop/PROJECTS/NN Recommendation Engine/logs"
+  mlruns: "/Users/keerthanbalagam/Desktop/PROJECTS/NN Recommendation Engine/mlruns"
+
+data:
+  min_user_interactions: 5
+  min_item_interactions: 5
+  implicit_threshold: 3.5
+  test_size: 0.2
+  random_seed: 42
+  max_training_samples: 500000
+
+als:
+  factors: 128
+  iterations: 20
+  regularization: 0.01
+  alpha: 40
+
+faiss:
+  n_lists: 100
+  n_probe: 10
+  top_k: 100
+
+ranking:
+  hidden_dims: [256, 128, 64]
+  dropout: 0.3
+  learning_rate: 0.001
+  batch_size: 1024
+  epochs: 10
+  top_k: 10
+
+cold_start:
+  popularity_top_k: 100
+  content_top_k: 20
+
+evaluation:
+  k_values: [5, 10, 20]

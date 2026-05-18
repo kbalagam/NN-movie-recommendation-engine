@@ -59,5 +59,3 @@ Precision@10 of 0.308 means that on average 3 out of every 10 recommendations ar
 | Interaction logging | Supabase (PostgreSQL) |
 | Application | Streamlit |
 | GPU acceleration | Apple MPS |
-
-## Project Structure
